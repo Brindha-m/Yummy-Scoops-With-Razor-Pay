@@ -31,3 +31,11 @@ Yummy Scoops 🍨 is a kind of icecream website and new way to order your favori
 
 <img width="310" alt="image" src="https://user-images.githubusercontent.com/72887609/144711171-741a6be2-01ea-4db1-bd03-75f90bf6503f.png">
 
+# RazorPay With PostMan
+
+<img width="642" alt="12" src="https://user-images.githubusercontent.com/72887609/144712461-aa5d90d0-479d-41fa-b6e8-e3bb588c8fa1.png">
+<img width="632" alt="11" src="https://user-images.githubusercontent.com/72887609/144712448-09d18fa3-2246-41c6-9fae-d5330d3ca0a4.png">
+
+
+
+
