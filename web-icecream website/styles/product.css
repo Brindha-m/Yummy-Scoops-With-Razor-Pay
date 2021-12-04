@@ -1,0 +1,62 @@
+
+footer{border:2px solid #ffffff; 
+      text-align:center; 
+      font-size:10px; 
+      background-color:#d5314b; color:white;
+      height:50px;margin:10px 10px 10px 10px; 
+      clear:both;}
+
+h1{border:1px solid #C51624;
+    font-family:Aharoni; 
+    font-size:1.1em; 
+    margin:10px 10px 10px 10px; 
+    color:black;
+    background-color:#d5314b; 
+    padding:3px; 
+    font-weight:normal;
+    background:radial-gradient( #ffffff, #e2546c);
+}
+#img1{ border:2px solid #383233; margin-left:5px; margin-right:0px;}
+
+
+.side1
+{margin:10px 10px 10px 10px; background:radial-gradient(#ffffff, #c5bfbf); font-family:Pristina; color:rgb(196, 128, 128);padding:0px;float:left;}
+
+.about-us-title {
+    padding: 16px;
+    color: teal;
+    font-family: Aharoni;
+    font-size: 18px;
+}
+.about-us-content {
+    color: #8d7c7c;
+    font-family:Aharoni ;
+    font-size: 13px;
+    padding-bottom: 54px;
+    
+}
+
+.button {
+    padding: 2px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Aharoni;
+    font-size: 16px;
+    margin: 0px 1px;
+    cursor: pointer;
+    background-color: white;
+    color: teal;
+    border: 2px solid teal;
+    text-decoration: none;
+    
+  }
+  .button:hover {
+    border: 2px solid #555555;
+    font-style: italic;
+  }
+
+
+
+  
+  
