@@ -1,1 +1,1 @@
-# Yummt-Scoops-With-Razor-Pay
+# Yummy-Scoops-With-Razor-Pay
