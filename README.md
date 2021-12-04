@@ -1,7 +1,7 @@
 # Yummy-Scoops-With-Razor-Pay
 
 
-Yummy Scoops 🍨 is a kind of icecream website and new way to order your favorite ice cream brands right to your front door. Our website also comes with a simple and straightforward display of ice cream flavors and accept payments from customers through the Razorpay Payment Gateway which ensures the fast and secure checkout process.
+Yummy Scoops 🍨 is a kind of icecream website and new way to order your favorite ice cream brands right to your front door. Our website also comes with a `simple and straightforward` display of ice cream flavors and accept payments from customers through the `Razorpay Payment Gateway` which ensures the `fast and secure` checkout process.
 
 <img width="905" alt="image" src="https://user-images.githubusercontent.com/72887609/144709047-81d2a461-4ec9-444e-bfb2-14bd9624d100.png">
 
