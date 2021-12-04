@@ -7,7 +7,7 @@ Yummy Scoops 🍨 is a kind of icecream website and new way to order your favori
 
 # User Interface
 
-<img width="913" alt="image" src="https://user-images.githubusercontent.com/72887609/144709248-393de6a4-030e-4d65-a04b-b23bf221b2b7.png"><img width="259" alt="144709138-56494111-dd22-4874-8d86-5b9519e40f4d" src="https://user-images.githubusercontent.com/72887609/144711027-414b3553-f027-40f4-902c-f3b30677edb7.png"><img width="255" alt="144709176-454b4bde-1ca8-419e-9a80-c4e7ca4193e9" src="https://user-images.githubusercontent.com/72887609/144711028-24099932-f65f-47bd-9c47-16f7afb5a56e.png">
+<img width="913" alt="image" src="https://user-images.githubusercontent.com/72887609/144709248-393de6a4-030e-4d65-a04b-b23bf221b2b7.png">
 
 
 
@@ -24,3 +24,10 @@ Yummy Scoops 🍨 is a kind of icecream website and new way to order your favori
 
 <img width="754" alt="image" src="https://user-images.githubusercontent.com/72887609/144710502-1333e013-3251-416e-8fc1-b1be90bdee8e.png">
 <img width="421" alt="image" src="https://user-images.githubusercontent.com/72887609/144710528-ab483359-ff20-45c5-8c01-d88da4b20d2e.png">
+
+# RazorPay's Dashboard - Transaction
+
+<img width="702" alt="image" src="https://user-images.githubusercontent.com/72887609/144711183-12c2a04b-7b67-4a51-a957-e7920edc3048.png">
+
+<img width="310" alt="image" src="https://user-images.githubusercontent.com/72887609/144711171-741a6be2-01ea-4db1-bd03-75f90bf6503f.png">
+
